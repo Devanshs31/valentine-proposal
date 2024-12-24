@@ -22,3 +22,11 @@ The first page features two buttons:
 A "Yes" button that redirects to a second page when clicked.
 A "No" button that moves away when the user tries to click it, making it unclickable and playful.
 The second page features a heartfelt proposal message and an animated GIF.
+
+Customization:
+
+You can modify various aspects of the project:
+
+Text: Update the text in the HTML files (index.html and next.html) to personalize the message.
+Animations: The button movement and GIF can be adjusted by modifying the JavaScript and CSS files.
+Design: Customize colors, fonts, and images in the CSS for a personalized touch.
